@@ -128,8 +128,8 @@ namespace AnaPatriciaAparicio_Lab_1
             double impuesto = 0;  
             double salarioBrutoAnual;
             double excedente = 0; 
-            double isr = 12; 
-            double isr = 80; 
+            double isr = 0; 
+           
 
             salarioBrutoMensual = Convert.ToDouble(textSalario.Text);
 
