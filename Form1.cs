@@ -136,7 +136,7 @@ namespace AnaPatriciaAparicio_Lab_1
             cantidadPagoSeguroSocial = porcentajeSeguroSocial * salarioBrutoMensual;
             cantidadPagoSeguroEducativo = porcentajeSeguroEducativo * salarioBrutoMensual;
             salarioMensualNeto = salarioBrutoMensual - cantidadPagoSeguroEducativo - cantidadPagoSeguroSocial;
-            salarioBrutoAnual = salarioBrutoMensual * 13;
+            salarioBrutoAnual = salarioBrutoMensual * 1456;
 
             if (salarioBrutoAnual <= 11000)
             {
