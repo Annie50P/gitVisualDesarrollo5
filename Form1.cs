@@ -128,7 +128,7 @@ namespace AnaPatriciaAparicio_Lab_1
             double impuesto = 0;  
             double salarioBrutoAnual;
             double excedente = 0; 
-            double isr = 0; 
+            double isr = 80; 
 
             salarioBrutoMensual = Convert.ToDouble(textSalario.Text);
 
@@ -169,6 +169,11 @@ namespace AnaPatriciaAparicio_Lab_1
             form2.lbISR.Text = isr.ToString("C2");
             form2.Show();
             this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //HOLA JAJAJAJA 
         }
     }
 }

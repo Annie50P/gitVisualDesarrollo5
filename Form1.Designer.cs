@@ -147,7 +147,7 @@
             this.BotónCalcular.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BotónCalcular.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BotónCalcular.ForeColor = System.Drawing.Color.White;
-            this.BotónCalcular.Location = new System.Drawing.Point(259, 282);
+            this.BotónCalcular.Location = new System.Drawing.Point(255, 255);
             this.BotónCalcular.Name = "BotónCalcular";
             this.BotónCalcular.Size = new System.Drawing.Size(427, 42);
             this.BotónCalcular.TabIndex = 6;
