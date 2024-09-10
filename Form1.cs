@@ -140,7 +140,7 @@ namespace AnaPatriciaAparicio_Lab_1
 
             if (salarioBrutoAnual <= 11000)
             {
-                impuesto = 900;
+                impuesto = 0;
             }
             else if (salarioBrutoAnual > 11000 && salarioBrutoAnual <= 50000)
             {
